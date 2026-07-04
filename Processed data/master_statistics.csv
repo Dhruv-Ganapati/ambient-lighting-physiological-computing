@@ -1,0 +1,4 @@
+Metric,Mean Bright,Mean Dim,Mean Difference,95% CI Lower,95% CI Upper,Statistical Test,Statistic,p-value,Effect Size (Cohen's d)
+Heart Rate,84.1,85.2,-1.1,-2.57,0.36,Paired t-test,-1.581,0.1303,-0.354
+RMSSD,147.85,142.94,4.91,-12.42,22.23,Paired t-test,0.593,0.5604,0.133
+Accuracy,82.47,84.98,-2.5,-9.13,4.12,Wilcoxon Signed-Rank,81.0,0.3884,-0.177

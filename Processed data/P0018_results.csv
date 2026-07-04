@@ -1,0 +1,2 @@
+Participant,Order,HR_Baseline,RMSSD_Baseline,HR_Bright,RMSSD_Bright,HR_Dim,RMSSD_Dim,HR_Recovery,RMSSD_Recovery,Attempts_Bright,Correct_Bright,Accuracy_Bright,AccuracyProp_Bright,Attempts_Dim,Correct_Dim,Accuracy_Dim,AccuracyProp_Dim
+P0018,Bright-Dim,84.79690789307692,111.17978235301744,94.02555602559457,73.12588441456586,101.27788434388195,83.18822618192411,90.24404409451758,127.29914679147363,32,31,96.875,0.96875,40,32,80.0,0.8
