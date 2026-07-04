@@ -322,11 +322,11 @@ python CODE/plotting.py
 
 # 📄 Research Report
 
-The complete research report describing the methodology, statistical analysis, discussion, limitations, and conclusions is included in this repository.
+The complete research report describing the study background, methodology, ECG signal processing, statistical analysis, visualizations, discussion, limitations, and conclusions is included in this repository.
 
-**Report**
+**Research Paper**
 
-📄 `Report_Group_S.pdf`
+📄 `Report_Group_S (1).pdf`
 
 ---
 
